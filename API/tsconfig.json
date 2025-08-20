@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
+
+// El directorio de salida para los archivos compilados (dist).
+// El tipo de módulo que utilizaremos (commonjs).
+// La interoperabilidad entre módulos ES y CommonJS.
