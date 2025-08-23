@@ -12,3 +12,4 @@
 }
 
 // este archivo  contiene la configuración de TypeScript necesaria para la interoperabilidad con Jest
+//Esta configuración permite que TypeScript y Jest trabajen juntos sin problemas, habilitando características como la importación de módulos y asegurando la consistencia en el manejo de archivos.
